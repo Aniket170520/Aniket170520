@@ -23,7 +23,3 @@ My goal is to deepen my expertise in **Spring Boot** and **Java**, contribute to
 ## 🌐 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/shirke-aniket)
-
----
-
-_Always open to learning, sharing, and collaborating on exciting Spring Boot projects!_
