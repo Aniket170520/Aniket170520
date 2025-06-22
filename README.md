@@ -11,9 +11,8 @@ I'm a passionate **Java Spring Boot Developer** focused on building robust, scal
 
 ## 🚀 Featured Spring Boot Repositories
 
-- [**Project 1**](#) – _Brief description of your Spring Boot project, e.g., "A RESTful API for user management with JWT authentication."_
-- [**Project 2**](#) – _Short summary, e.g., "Microservices demo with RabbitMQ and Redis integration."_
-- [**Project 3**](#) – _Short summary, e.g., "Cloud-native Spring Boot app deployed on AWS/PCF."_
+- [user-service](https://github.com/Aniket170520/user-service) – _Brief description of your Spring Boot project, e.g., "A RESTful API for user management with JWT authentication."_
+- [course-service](https://github.com/Aniket170520/course-service)– _Short summary, e.g., "Microservices demo with RabbitMQ and Redis integration."_
 
 
 ## 🎯 Purpose
